@@ -37,7 +37,7 @@ namespace mySampleBackend.Controllers
         [Route("addFloop")]
         public async Task<int> AddFloop(Floop floop)
         {
-            _logger.LogInformation("attempting to add new floop  {@floop}", floop);
+            _logger.LogInformation("attempting to add new floop named {@floop}", floop.FloopName);
             return await _floopService.AddFloop(floop);
         }
         /// <summary>
@@ -49,7 +49,7 @@ namespace mySampleBackend.Controllers
         [Route("testClient")]
         public async Task<FloopResponse> TestFloopClient(FloopRequest floopRequest)
         {
-            _logger.LogInformation("Testing Floop Client with request  {@floop}", floopRequest);
+            _logger.LogInformation("Testing Floop Client with request value {@floop}", floopRequest.TestFlag);
             return await _floopService.TestFloopClient(floopRequest);
         }
         /// <summary>

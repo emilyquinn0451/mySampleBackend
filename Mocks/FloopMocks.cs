@@ -8,7 +8,6 @@ namespace mySampleBackend.Mocks
         public static readonly FloopRequest floopRequestMock = new()
         {
 
-            FloopValue = 3.32,
             TestFlag = true,
 
         };

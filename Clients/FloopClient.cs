@@ -21,7 +21,7 @@ namespace mySampleBackend.Clients
         {
             try
             {
-                _logger.LogInformation("FloopClient: Compare Floop Info - Connecting to external floop service to validate data for floop with value of {@floop}", floopRequest.FloopValue);
+                _logger.LogInformation("FloopClient: Compare Floop Info - Connecting to external floop service to validate data for floop with value of {@floop}", floopRequest.TestFlag);
                 //If this was a real API this would be a call to another service. For our purposes we return a mock, with two mocks for demonstration of error catching.
 
                 //var request = new HttpRequestMessage(HttpMethod.Get, "exampleApiUrl");

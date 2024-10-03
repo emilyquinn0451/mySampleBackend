@@ -1287,11 +1287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\mySampleBackend.csproj",
+      "projectUniqueName": "C:\\Users\\Evan\\Downloads\\mySampleBackend\\mySampleBackend.csproj",
       "projectName": "mySampleBackend",
-      "projectPath": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\mySampleBackend.csproj",
+      "projectPath": "C:\\Users\\Evan\\Downloads\\mySampleBackend\\mySampleBackend.csproj",
       "packagesPath": "C:\\Users\\Evan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\obj\\",
+      "outputPath": "C:\\Users\\Evan\\Downloads\\mySampleBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
