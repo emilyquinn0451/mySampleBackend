@@ -6,12 +6,12 @@ using mySampleBackend.Repositories;
 
 namespace mySampleBackend.Implementations
 {
-    public class DbAccessService: IDbAccessService
+    public class DbAccessService : IDbAccessService
     {
         private readonly FloopRepository _floopRepository;
         private readonly IMapper _mapper;
-       
-    public DbAccessService(FloopRepository floopRepository, IMapper mapper)
+
+        public DbAccessService(FloopRepository floopRepository, IMapper mapper)
         {
             _floopRepository = floopRepository;
             _mapper = mapper;
@@ -52,7 +52,7 @@ namespace mySampleBackend.Implementations
             FloopDbEntity floopDb = _mapper.Map<FloopDbEntity>(floop);
             var x = _floopRepository.AddFloop(floopDb);
             return x.floop_id;
-            
+
         }
         /// <summary>
         /// Removing Floop from DB
@@ -61,8 +61,15 @@ namespace mySampleBackend.Implementations
         /// <returns></returns>
         public bool DeleteFloop(int id)
         {
-            _floopRepository.DeleteFloop(id);
-            return true;
+            try
+            {
+                _floopRepository.DeleteFloop(id);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
     }
 }

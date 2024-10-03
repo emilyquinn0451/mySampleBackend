@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:implementations\\dbaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\music\\mysamplebackend\\controllers\\floopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:controllers\\floopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\music\\mysamplebackend\\interfaces\\idbaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:interfaces\\idbaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\music\\mysamplebackend\\repositories\\flooprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:repositories\\flooprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:interfaces\\ifloopclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\music\\mysamplebackend\\interfaces\\idbaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:interfaces\\idbaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\music\\mysamplebackend\\infrastructure\\floopdbentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:infrastructure\\floopdbentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\music\\mysamplebackend\\controllers\\floopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:controllers\\floopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\music\\mysamplebackend\\constants\\floopconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,7 +85,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IFloopRepository.cs",
               "DocumentMoniker": "C:\\Users\\Evan\\Music\\mySampleBackend\\Interfaces\\IFloopRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IFloopRepository.cs",
@@ -93,12 +93,11 @@
               "RelativeToolTip": "Interfaces\\IFloopRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T13:57:05.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T13:57:05.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IFloopClient.cs",
               "DocumentMoniker": "C:\\Users\\Evan\\Music\\mySampleBackend\\Interfaces\\IFloopClient.cs",
               "RelativeDocumentMoniker": "Interfaces\\IFloopClient.cs",
@@ -106,12 +105,11 @@
               "RelativeToolTip": "Interfaces\\IFloopClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T13:57:04.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T13:57:04.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "IDbAccessService.cs",
               "DocumentMoniker": "C:\\Users\\Evan\\Music\\mySampleBackend\\Interfaces\\IDbAccessService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IDbAccessService.cs",
@@ -119,12 +117,11 @@
               "RelativeToolTip": "Interfaces\\IDbAccessService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T13:57:02.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T13:57:02.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FloopDbEntity.cs",
               "DocumentMoniker": "C:\\Users\\Evan\\Music\\mySampleBackend\\Infrastructure\\FloopDbEntity.cs",
               "RelativeDocumentMoniker": "Infrastructure\\FloopDbEntity.cs",
@@ -132,8 +129,7 @@
               "RelativeToolTip": "Infrastructure\\FloopDbEntity.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T13:56:46.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T13:56:46.988Z"
             },
             {
               "$type": "Document",
@@ -145,12 +141,11 @@
               "RelativeToolTip": "Domain\\FloopRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T12:44:21.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T12:44:21.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FloopRepository.cs",
               "DocumentMoniker": "C:\\Users\\Evan\\Music\\mySampleBackend\\Repositories\\FloopRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\FloopRepository.cs",
@@ -158,18 +153,17 @@
               "RelativeToolTip": "Repositories\\FloopRepository.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwCIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T13:02:54.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T13:02:54.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "FloopController.cs",
               "DocumentMoniker": "C:\\Users\\Evan\\Music\\mySampleBackend\\Controllers\\FloopController.cs",
               "RelativeDocumentMoniker": "Controllers\\FloopController.cs",
               "ToolTip": "C:\\Users\\Evan\\Music\\mySampleBackend\\Controllers\\FloopController.cs",
               "RelativeToolTip": "Controllers\\FloopController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAQwDEAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T12:51:28.607Z",
               "EditorCaption": ""
@@ -184,8 +178,7 @@
               "RelativeToolTip": "Clients\\FloopClient.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAlwC4AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T12:45:15.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T12:45:15.567Z"
             },
             {
               "$type": "Document",
@@ -207,14 +200,14 @@
               "RelativeDocumentMoniker": "Implementations\\DbAccessService.cs",
               "ToolTip": "C:\\Users\\Evan\\Music\\mySampleBackend\\Implementations\\DbAccessService.cs",
               "RelativeToolTip": "Implementations\\DbAccessService.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAgwD8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T13:03:06.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FloopService.cs",
               "DocumentMoniker": "C:\\Users\\Evan\\Music\\mySampleBackend\\Implementations\\FloopService.cs",
               "RelativeDocumentMoniker": "Implementations\\FloopService.cs",
@@ -222,8 +215,7 @@
               "RelativeToolTip": "Implementations\\FloopService.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAwwDYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T12:42:58.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T12:42:58.811Z"
             },
             {
               "$type": "Document",
@@ -271,8 +263,7 @@
               "RelativeToolTip": "Constants\\FloopConstants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T13:01:11.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T13:01:11.015Z"
             },
             {
               "$type": "Document",
@@ -288,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IFloopService.cs",
               "DocumentMoniker": "C:\\Users\\Evan\\Music\\mySampleBackend\\Interfaces\\IFloopService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IFloopService.cs",
@@ -296,8 +287,7 @@
               "RelativeToolTip": "Interfaces\\IFloopService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAEwAsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T12:52:37.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T12:52:37.392Z"
             },
             {
               "$type": "Document",
