@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Evan\\Downloads\\mySampleBackend\\mySampleBackend.csproj": {}
+    "C:\\Users\\Evan\\Documents\\mySampleBackend\\mySampleBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Evan\\Downloads\\mySampleBackend\\mySampleBackend.csproj": {
+    "C:\\Users\\Evan\\Documents\\mySampleBackend\\mySampleBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Evan\\Downloads\\mySampleBackend\\mySampleBackend.csproj",
+        "projectUniqueName": "C:\\Users\\Evan\\Documents\\mySampleBackend\\mySampleBackend.csproj",
         "projectName": "mySampleBackend",
-        "projectPath": "C:\\Users\\Evan\\Downloads\\mySampleBackend\\mySampleBackend.csproj",
+        "projectPath": "C:\\Users\\Evan\\Documents\\mySampleBackend\\mySampleBackend.csproj",
         "packagesPath": "C:\\Users\\Evan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Evan\\Downloads\\mySampleBackend\\obj\\",
+        "outputPath": "C:\\Users\\Evan\\Documents\\mySampleBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -55,7 +55,7 @@ namespace mySampleBackend.Implementations
                 if (!validationResult.IsValid)
                 {
                     string errorMessage = string.Join(", ", validationResult.Errors);
-                    _logger.LogInformation("Add Floop Request blocked because {@reason)", errorMessage);
+                    _logger.LogInformation("Add Floop Request blocked because " + errorMessage);
                     return -1;
                 }
                 //Assuming success here for the sake of time since I've demonstrated more secure try/catch and error checking/logging methods and we're using an IMDB
