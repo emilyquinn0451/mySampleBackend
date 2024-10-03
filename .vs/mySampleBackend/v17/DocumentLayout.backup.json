@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\repositories\\flooprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:repositories\\flooprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\controllers\\floopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:controllers\\floopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\validation\\floopvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:validation\\floopvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\mocks\\floopmocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:mocks\\floopmocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\implementations\\httpmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:implementations\\httpmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\implementations\\floopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:implementations\\floopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\implementations\\dbaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:implementations\\dbaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\domain\\floopresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:domain\\floopresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\domain\\flooprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:domain\\flooprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\constants\\floopconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:constants\\floopconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\clients\\floopclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:clients\\floopclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\interfaces\\ifloopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:interfaces\\ifloopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|c:\\users\\evan\\source\\repos\\newrepo\\mysamplebackend\\mysamplebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0F22FE1-7E8D-4FB9-89F2-F81FD6DD6391}|mySampleBackend.csproj|solutionrelative:mysamplebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Evan\\AppData\\Local\\SourceServer\\b8acbb3774954b6b4523f051f577f00826cda777c00cb86279899d9cef9d2eef\\Validation\\FloopValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HttpMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Implementations\\HttpMessage.cs",
+              "RelativeDocumentMoniker": "Implementations\\HttpMessage.cs",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Implementations\\HttpMessage.cs",
+              "RelativeToolTip": "Implementations\\HttpMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:10:12.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbAccessService.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Implementations\\DbAccessService.cs",
+              "RelativeDocumentMoniker": "Implementations\\DbAccessService.cs",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Implementations\\DbAccessService.cs",
+              "RelativeToolTip": "Implementations\\DbAccessService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwD8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:03:06.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FloopResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Domain\\FloopResponse.cs",
+              "RelativeDocumentMoniker": "Domain\\FloopResponse.cs",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Domain\\FloopResponse.cs",
+              "RelativeToolTip": "Domain\\FloopResponse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA/wBIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:00:25.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FloopRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Domain\\FloopRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\FloopRequest.cs",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Domain\\FloopRequest.cs",
+              "RelativeToolTip": "Domain\\FloopRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:44:21.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FloopRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Repositories\\FloopRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FloopRepository.cs",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Repositories\\FloopRepository.cs",
+              "RelativeToolTip": "Repositories\\FloopRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA5wCoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:02:54.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FloopValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Validation\\FloopValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\FloopValidator.cs",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Validation\\FloopValidator.cs",
+              "RelativeToolTip": "Validation\\FloopValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:10:57.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:11:01.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FloopController.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Controllers\\FloopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FloopController.cs",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Controllers\\FloopController.cs",
+              "RelativeToolTip": "Controllers\\FloopController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB8AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:51:28.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Data\\DbContext.cs",
+              "RelativeToolTip": "Data\\DbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:07:58.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FloopConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Constants\\FloopConstants.cs",
+              "RelativeDocumentMoniker": "Constants\\FloopConstants.cs",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Constants\\FloopConstants.cs",
+              "RelativeToolTip": "Constants\\FloopConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:01:11.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FloopMocks.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Mocks\\FloopMocks.cs",
+              "RelativeDocumentMoniker": "Mocks\\FloopMocks.cs",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Mocks\\FloopMocks.cs",
+              "RelativeToolTip": "Mocks\\FloopMocks.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:45:38.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FloopClient.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Clients\\FloopClient.cs",
+              "RelativeDocumentMoniker": "Clients\\FloopClient.cs",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Clients\\FloopClient.cs",
+              "RelativeToolTip": "Clients\\FloopClient.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:45:15.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "mySampleBackend",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\mySampleBackend.csproj",
+              "RelativeDocumentMoniker": "mySampleBackend.csproj",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\mySampleBackend.csproj",
+              "RelativeToolTip": "mySampleBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T12:45:37.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FloopService.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Implementations\\FloopService.cs",
+              "RelativeDocumentMoniker": "Implementations\\FloopService.cs",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Implementations\\FloopService.cs",
+              "RelativeToolTip": "Implementations\\FloopService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:42:58.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFloopService.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Interfaces\\IFloopService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFloopService.cs",
+              "ToolTip": "C:\\Users\\Evan\\source\\repos\\newRepo\\mySampleBackend\\Interfaces\\IFloopService.cs",
+              "RelativeToolTip": "Interfaces\\IFloopService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAEwAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:52:37.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FloopValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Evan\\AppData\\Local\\SourceServer\\b8acbb3774954b6b4523f051f577f00826cda777c00cb86279899d9cef9d2eef\\Validation\\FloopValidator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\b8acbb3774954b6b4523f051f577f00826cda777c00cb86279899d9cef9d2eef\\Validation\\FloopValidator.cs",
+              "ToolTip": "C:\\Users\\Evan\\AppData\\Local\\SourceServer\\b8acbb3774954b6b4523f051f577f00826cda777c00cb86279899d9cef9d2eef\\Validation\\FloopValidator.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\b8acbb3774954b6b4523f051f577f00826cda777c00cb86279899d9cef9d2eef\\Validation\\FloopValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:06:58.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
