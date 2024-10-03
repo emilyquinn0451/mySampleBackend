@@ -45,7 +45,7 @@ namespace mySampleBackend.Clients
 
                 }
                 //Casting to task since we aren't returning from a real async call
-                //Reusing the floop object for a JSON response to demonstrate HTML interactions since this isn't returning any real data and the operations of this API are simplistic
+                //Reusing the floop object for a JSON response to demonstrate HTTP interactions since this isn't returning any real data and the operations of this API are simplistic
                 var mockFloopResponse = JsonConvert.DeserializeObject<FloopResponse>(floopJson);
                 return Task.FromResult(mockFloopResponse);
 

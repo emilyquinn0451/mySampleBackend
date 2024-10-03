@@ -51,6 +51,7 @@ namespace mySampleBackend.Implementations
     {
             try
             {
+                //Validating fields before go-ahead
                 FluentValidation.Results.ValidationResult validationResult = _validator.Validate(floop);
                 if (!validationResult.IsValid)
                 {
